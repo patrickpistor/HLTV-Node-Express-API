@@ -11,5 +11,8 @@
   "dependencies": {
     "express": "^4.16.4",
     "hltv": "^2.12.3"
+  },
+  "engines": {
+    "node": "10.x"
   }
 }
